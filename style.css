@@ -1,0 +1,24 @@
+  body
+  {
+    color: rgb(23, 6, 176);
+    background: rgb(99, 138, 194);
+  }
+  .heading
+  {
+    width: 80%;
+    font-size: 22px;
+  }
+  #camera 
+  {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px; 
+  }
+  .nameOfObjects, #resultObjectName  , #resultObjectAccuracy
+  {
+    color: rgb(96, 155, 250);
+  }
+  p,h3
+  {
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+  }
